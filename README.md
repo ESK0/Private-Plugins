@@ -1,9 +1,10 @@
 
-List of private plugins I sell:
+# List of private plugins I sell:
 
-1. Coins/Pins/Music kits - Stored in DB and always up to date (eItems required) - 15€
+- Coins/Pins/Music kits - Stored in DB and always up to date (eItems required) - `15€`
 
 
-Contact details:
-  Steam: https://steamcommunity.com/id/ESK0
-  Discord: ESK0#1337
+### Contact details:
+
+- Steam: https://steamcommunity.com/id/ESK0
+- Discord: ESK0#1337
