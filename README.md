@@ -2,7 +2,7 @@
 # List of private plugins for sale:
 
 1. **Coins/Pins/Music kits - Stored in DB and always up to date (eItems required) - `15€`**
-2. **eTweaker - Weapon paints, Gloves, Stickers, Knives and much more! - `200€ | 150€ wihout stickers` (Coming soon)**
+2. **eTweaker - Weapon paints, Gloves, Stickers, Knives and much more! - `200€` (Coming soon)**
    - Available commands:
      - !ws | Usage: !ws <skin name> - Keep empty to open main menu or enter native skin name to be applied for currently held weapon.
      - !wsa | Usage: !wsa <skin name> - Enter any skin name to be applied for currently held weapon.
