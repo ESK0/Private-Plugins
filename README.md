@@ -1,5 +1,5 @@
 
-# List of private plugins I sell:
+# List of private plugins for sale:
 
 1. **Coins/Pins/Music kits - Stored in DB and always up to date (eItems required) - `15€`**
 2. **eTweaker - Weapon paints, Gloves, Stickers, Knives and much more! - `200€` (Coming soon)**
