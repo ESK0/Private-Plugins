@@ -16,7 +16,7 @@
      - Gloves can be different for each team
      - eItems in use to have **always up to date** item selection
      - MySQL for saving everything
-     - You can change weapon pattern/quality/rarity/wear/nametag
+     - You can change weapon pattern/rarity/wear/nametag
      - Own **StatTrak** system to count kills.
      - You can apply any available **sticker** on weapon
   
