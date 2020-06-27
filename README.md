@@ -4,9 +4,9 @@
 1. **Coins/Pins/Music kits - Stored in DB and always up to date (eItems required) - `15€`**
 2. **eTweaker - Weapon paints, Gloves, Stickers, Knives and much more! - `200€` (Coming soon)**
    - Available commands:
-     - !ws | Usage: !ws <skin name> - Keep empty to open main menu or enter native skin name to be applied for currently held weapon.
-     - !wsa | Usage: !wsa <skin name> - Enter any skin name to be applied for currently held weapon.
-     - !knife | Usage: !knife <knife name> - Keep empty to open knife menu or enter knife name to equip.
+     - !ws | Usage: !ws < skin name > - Keep empty to open main menu or enter native skin name to be applied for currently held weapon.
+     - !wsa | Usage: !wsa < skin name > - Enter any skin name to be applied for currently held weapon.
+     - !knife | Usage: !knife < knife name > - Keep empty to open knife menu or enter knife name to equip.
      - !gloves | Opens gloves menu 
      - !coin/!coins | Opens coins menu
      - !pin/!pins | Opens pins menu
